@@ -20,6 +20,7 @@ The Haberman Dataset consists of the data recorded between the year 1958 to 1970
 4) Seaborn
 
 *Data Visualization:*
+
 ![](https://github.com/Akshay-Avhad/EDA_on_Haberman_Dataset/blob/main/Visualisations/Haberman%20EDA%202.PNG)
 
 
