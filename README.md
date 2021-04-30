@@ -19,6 +19,10 @@ The Haberman Dataset consists of the data recorded between the year 1958 to 1970
 3) Matplotlib
 4) Seaborn
 
+*Data Visualization:*
+![](https://github.com/Akshay-Avhad/EDA_on_Haberman_Dataset/blob/main/Visualisations/Haberman%20EDA%202.PNG)
+
+
 *Conclusion:*
 1) Majority of the data is overlapping which does not clearly guide us in determining which factor is the best in helping us to classify status 1 and status 2 patients.
 2) We observed that if number of nodes are greater than 10, there is a very high chance of the patient being of status 2.
